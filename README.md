@@ -3,6 +3,7 @@
 Welcome to the Zomato Data Analysis project! This project provides an in-depth Exploratory Data Analysis (EDA) on restaurant data from Zomato, uncovering trends, customer preferences, and actionable insights for restaurant businesses and food enthusiasts.
 
 ---
+![Zomato Business Analytics](https://github.com/devansh941232/Zomato-Business-Analytics/blob/main/zomato-github.png)
 
 ## 📌 Project Overview
 
